@@ -1,10 +1,13 @@
-import "./button.css"
+import "./button.css";
 function Button(props) {
-    return ( 
+  return (
     <div>
-    <button className="Button" onClick={props.handleDelete}> Delete me after trying </button>
+      <button className="Button" onClick={props.handleDelete}>
+        {" "}
+        Remove{" "}
+      </button>
     </div>
-    )
+  );
 }
 
-export default Button
+export default Button;
