@@ -1,9 +1,22 @@
+
 .Button { 
     background-color: #E62D35; 
     color: white; 
     border: none; 
     border-radius: 7px; 
     padding: 10px;
-}     
+    margin-right: 10px;
+    
+}   
 
 .Button:hover { opacity: 0.8; cursor: pointer; }
+
+.Button2 { 
+    background-color: #248a35; 
+    color: white; 
+    border: none; 
+    border-radius: 7px; 
+    padding: 10px;
+}     
+
+.Button2:hover { opacity: 0.8; cursor: pointer; }

@@ -3,7 +3,5 @@
     flex-wrap: wrap;
     justify-content: center; 
     max-width: 100%;
+    overflow: hidden;
 }
-
-
-

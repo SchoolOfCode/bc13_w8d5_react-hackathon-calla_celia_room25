@@ -1,23 +1,14 @@
-
 :root {
   background-color: #D0E1D3;
 }
 
-
-
-
 .App {
   text-align: center;
-  
-  
 }
 
 .h {
   font-family: 'Playfair Display SC', serif;
-
 }
-
-
 
 .buttons {
   align-items: center;
@@ -27,7 +18,6 @@
   box-sizing: border-box;
   color: #111;
   cursor: pointer;
-  
   font-family: Inter,sans-serif;
   font-size: 16px;
   height: 48px;
@@ -37,11 +27,10 @@
   padding: 0 25px;
   position: relative;
   text-align: center;
-
-  
-  
-  
 }
 
+#clear {
+  margin-left: 10px;
+}
 
 
