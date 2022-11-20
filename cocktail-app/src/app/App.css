@@ -1,0 +1,36 @@
+:root {
+  background-color: #D0E1D3;
+}
+
+.App {
+  text-align: center;
+}
+
+.h {
+  font-family: 'Playfair Display SC', serif;
+}
+
+.buttons {
+  align-items: center;
+  background-color: #fee6e3;
+  border: 2px solid #111;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #111;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  height: 48px;
+  justify-content: center;
+  line-height: 24px;
+  max-width: 100%;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+}
+
+#clear {
+  margin-left: 10px;
+}
+
+
